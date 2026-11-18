@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T14:56:48.226Z",
+  "generatedAt": "2026-11-18T15:04:00.759Z",
   "shards": [
     {
       "repo": "WikiMaths-GameAssets-Mirror-01",
@@ -25,6 +25,11 @@
       "repo": "WikiMaths-GameAssets-Mirror-05",
       "games": 17,
       "bytes": 1559764874
+    },
+    {
+      "repo": "WikiMaths-GameAssets-Mirror-06",
+      "games": 14,
+      "bytes": 1522566336
     }
   ]
 }
